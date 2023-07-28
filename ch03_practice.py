@@ -38,3 +38,11 @@ from math import *
 print(floor(4.99))
 print(ceil(3.14))
 print(sqrt(16))
+
+# 3-4 랜덤 함수
+from random import *
+print(random())
+print(int(random() * 10))
+
+print(randrange(1, 46))
+print(randint(1,45))
